@@ -1,0 +1,13 @@
+c:\users\joe\documents\visual studio 2012\Projects\GetPastDeliveredDesigns\GetPastDeliveredDesigns\bin\Debug\GetPastDeliveredDesigns.exe.config
+c:\users\joe\documents\visual studio 2012\Projects\GetPastDeliveredDesigns\GetPastDeliveredDesigns\bin\Debug\GetPastDeliveredDesigns.exe
+c:\users\joe\documents\visual studio 2012\Projects\GetPastDeliveredDesigns\GetPastDeliveredDesigns\bin\Debug\GetPastDeliveredDesigns.pdb
+c:\users\joe\documents\visual studio 2012\Projects\GetPastDeliveredDesigns\GetPastDeliveredDesigns\bin\Debug\MsgReader.dll
+c:\users\joe\documents\visual studio 2012\Projects\GetPastDeliveredDesigns\GetPastDeliveredDesigns\bin\Debug\MsgReader.pdb
+c:\users\joe\documents\visual studio 2012\Projects\GetPastDeliveredDesigns\GetPastDeliveredDesigns\bin\Debug\MsgReader.xml
+c:\users\joe\documents\visual studio 2012\Projects\GetPastDeliveredDesigns\GetPastDeliveredDesigns\obj\Debug\GetPastDeliveredDesigns.csprojResolveAssemblyReference.cache
+c:\users\joe\documents\visual studio 2012\Projects\GetPastDeliveredDesigns\GetPastDeliveredDesigns\obj\Debug\GetPastDeliveredDesigns.csproj.ResolveComReference.cache
+c:\users\joe\documents\visual studio 2012\Projects\GetPastDeliveredDesigns\GetPastDeliveredDesigns\obj\Debug\GetPastDeliveredDesigns.Form1.resources
+c:\users\joe\documents\visual studio 2012\Projects\GetPastDeliveredDesigns\GetPastDeliveredDesigns\obj\Debug\GetPastDeliveredDesigns.Properties.Resources.resources
+c:\users\joe\documents\visual studio 2012\Projects\GetPastDeliveredDesigns\GetPastDeliveredDesigns\obj\Debug\GetPastDeliveredDesigns.csproj.GenerateResource.Cache
+c:\users\joe\documents\visual studio 2012\Projects\GetPastDeliveredDesigns\GetPastDeliveredDesigns\obj\Debug\GetPastDeliveredDesigns.exe
+c:\users\joe\documents\visual studio 2012\Projects\GetPastDeliveredDesigns\GetPastDeliveredDesigns\obj\Debug\GetPastDeliveredDesigns.pdb
